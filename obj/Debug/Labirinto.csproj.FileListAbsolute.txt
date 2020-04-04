@@ -1,0 +1,10 @@
+C:\Users\Paulo\Documents\Facul\EDA 2\Labirinto 2.0 - Implementar\bin\Debug\Labirinto.exe.config
+C:\Users\Paulo\Documents\Facul\EDA 2\Labirinto 2.0 - Implementar\bin\Debug\Labirinto.exe
+C:\Users\Paulo\Documents\Facul\EDA 2\Labirinto 2.0 - Implementar\bin\Debug\Labirinto.pdb
+C:\Users\Paulo\Documents\Facul\EDA 2\Labirinto 2.0 - Implementar\obj\Debug\Labirinto.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Facul\EDA 2\Labirinto 2.0 - Implementar\obj\Debug\Labirinto.Principal.resources
+C:\Users\Paulo\Documents\Facul\EDA 2\Labirinto 2.0 - Implementar\obj\Debug\Labirinto.Properties.Resources.resources
+C:\Users\Paulo\Documents\Facul\EDA 2\Labirinto 2.0 - Implementar\obj\Debug\Labirinto.csproj.GenerateResource.cache
+C:\Users\Paulo\Documents\Facul\EDA 2\Labirinto 2.0 - Implementar\obj\Debug\Labirinto.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Facul\EDA 2\Labirinto 2.0 - Implementar\obj\Debug\Labirinto.exe
+C:\Users\Paulo\Documents\Facul\EDA 2\Labirinto 2.0 - Implementar\obj\Debug\Labirinto.pdb
